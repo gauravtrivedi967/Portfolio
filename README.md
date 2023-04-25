@@ -1,11 +1,11 @@
 <!-- # gauravtrivedi.github.io -->
 
 # Personal Portfolio 🔥
-> https://gauravtrivedi.github.io/
+> https://gauravtrivedi967.github.io/Portfolio/
 
 
 [![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/rajaprerak/gauravtrivedi.github.io/commits/master)
-[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://gauravtrivedi.github.io/)
+[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](https://gauravtrivedi967.github.io/Portfolio/)
 [![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/gaurav-trivedi-bb69931b1/)
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
